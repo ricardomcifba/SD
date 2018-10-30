@@ -1,0 +1,4 @@
+EXPORTS
+    apagaAluno @1
+    recuperarAluno @2
+    salvarAluno @3
